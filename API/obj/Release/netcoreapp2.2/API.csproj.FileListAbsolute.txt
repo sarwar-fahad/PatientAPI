@@ -1,0 +1,14 @@
+D:\Learning\Cloud\API\API\bin\Release\netcoreapp2.2\API.deps.json
+D:\Learning\Cloud\API\API\bin\Release\netcoreapp2.2\API.runtimeconfig.json
+D:\Learning\Cloud\API\API\bin\Release\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\Learning\Cloud\API\API\bin\Release\netcoreapp2.2\API.dll
+D:\Learning\Cloud\API\API\bin\Release\netcoreapp2.2\API.pdb
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.AssemblyInfo.cs
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.dll
+D:\Learning\Cloud\API\API\obj\Release\netcoreapp2.2\API.pdb
